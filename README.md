@@ -1,2 +1,3 @@
 # starter-demo
-demo for all
+
+- [java-spi](../java-spi)
